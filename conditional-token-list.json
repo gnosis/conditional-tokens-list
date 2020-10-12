@@ -7,7 +7,7 @@
 		"prediction markets"
 	],
 	"tags": {
-		"Election2020": {
+		"POTUS2020": {
 			"name": "2020 US Election",
 			"description": "Will Trump win the the 2020 United States presidential election"
 		}
@@ -21,7 +21,7 @@
 			"name": "Dai if Trump loses",
 			"decimals": 0,
 			"tags": [
-				"Election2020"
+				"POTUS2020"
 			]
 		},
 		{
@@ -31,7 +31,7 @@
 			"name": "Dai if Trump wins",
 			"decimals": 0,
 			"tags": [
-				"Election2020"
+				"POTUS2020"
 			]
 		}
 	],
