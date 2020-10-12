@@ -1,0 +1,43 @@
+{
+	"name": "Conditional Tokens",
+	"logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+	"keywords": [
+		"conditional tokens",
+		"gnosis",
+		"prediction markets"
+	],
+	"tags": {
+		"Election2020": {
+			"name": "2020 US Election",
+			"description": "Will Trump win the the 2020 United States presidential election"
+		}
+	},
+	"timestamp": "2020-10-08T16:01:00+05:00",
+	"tokens": [
+		{
+			"chainId": 1,
+			"address": "0x40ce0A1D8F4999807b92ec266a025F071814b15d",
+			"symbol": "noTrump",
+			"name": "Dai if Trump loses",
+			"decimals": 0,
+			"tags": [
+				"Election2020"
+			]
+		},
+		{
+			"chainId": 1,
+			"address": "0x5963FD7cA9b17b85768476019F81CB43d9d1818E",
+			"symbol": "yesTrump",
+			"name": "Dai if Trump wins",
+			"decimals": 0,
+			"tags": [
+				"Election2020"
+			]
+		}
+	],
+	"version": {
+		"major": 0,
+		"minor": 0,
+		"patch": 0
+	}
+}
