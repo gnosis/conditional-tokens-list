@@ -35,11 +35,49 @@
 			"tags": [
 				"POTUS2020"
 			]
-		}
+		},
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "name": "Dai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNYVMm3iC7HEoxfvxsZbRoapdjDHj9EREFac4BPeVphSJ",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmV4pPzqz3fzAv1tevqCFWQGecKQDDvWRvAR2R5qoqhT9f",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 6,
+      "logoURI": "ipfs://QmR3TGmDDdmid99ExTHwPiKro4njZhSidbjcTbSrS5rHnq",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "ipfs://QmR4eRajKjRQxHE2JuR4R4gHRjt1ZQgK6J1GxPziuCQ452",
+      "tags": [
+        "erc20"
+      ]
+    }
 	],
 	"version": {
 		"major": 0,
-		"minor": 0,
-		"patch": 3
+		"minor": 1,
+		"patch": 0
 	}
 }
