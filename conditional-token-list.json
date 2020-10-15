@@ -20,7 +20,7 @@
 			"symbol": "noTrump",
 			"name": "Dai if Trump loses",
       "logoURI": "https://raw.githubusercontent.com/gnosis/conditional-tokens-list/main/logos/noTrump.png",
-			"decimals": 0,
+			"decimals": 18,
 			"tags": [
 				"POTUS2020"
 			]
@@ -31,7 +31,7 @@
 			"symbol": "yesTrump",
 			"name": "Dai if Trump wins",
       "logoURI": "https://raw.githubusercontent.com/gnosis/conditional-tokens-list/main/logos/yesTrump.png",
-			"decimals": 0,
+			"decimals": 18,
 			"tags": [
 				"POTUS2020"
 			]
